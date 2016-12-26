@@ -46,7 +46,7 @@ if (isset($_POST['btn-login'])) {
 
 	<div class="container">
      
-       <div class="img-cont"><img class="img" src="IET.png" alt="IET logo"></div> 
+       <div class="img-cont"><img class="img" src="IET_logoXL.png" alt="IET logo"></div> 
        <form class="form-signin" method="post" id="login-form">
       
         <h2 class="form-signin-heading">Sign In</h2><hr />
