@@ -1,9 +1,9 @@
 <?php
 
 	 $DBhost = "localhost";
-	 $DBuser = "root";
-	 $DBpass = "";
-	 $DBname = "mysqli_login";
+	 $DBuser = "id358014_admin";
+	 $DBpass = "Inc0rr3ct";
+	 $DBname = "id358014_register";
 	 
 	 $DBcon = new MySQLi($DBhost,$DBuser,$DBpass,$DBname);
     
