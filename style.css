@@ -4,7 +4,12 @@
 body{
 	background:#f9f9f9;
 }
+.img-cont{
 
+}
+.img{
+	padding-left: 50%;
+}
 .form-signin {
     max-width: 500px;
     padding: 19px 29px 29px;
